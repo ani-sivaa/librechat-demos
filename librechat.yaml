@@ -1,0 +1,188 @@
+
+version: 1.1.7
+
+cache: true
+
+registration:
+  socialLogins: ["github", "google"]
+  allowedDomains: 
+    - "youruniversity.edu"
+    - "school.edu"
+    - "college.edu"
+  allowedEmailDomains:
+    - "edu"
+
+interface:
+  privacyPolicy:
+    externalUrl: "https://librechat.ai/privacy"
+  termsOfService:
+    externalUrl: "https://librechat.ai/tos"
+  helpAndFAQURL: "https://librechat.ai/docs"
+
+
+endpoints:
+  google:
+    apiKey: "${GOOGLE_KEY}"
+    models:
+      gemini-1.5-pro:
+        displayName: "Gemini Pro (Free) - Advanced Reasoning"
+        description: "Best for complex analysis, math, research"
+        maxContextTokens: 1048576
+        maxOutputTokens: 8192
+      gemini-1.5-flash:
+        displayName: "Gemini Flash (Free) - Fast Responses"  
+        description: "Quick responses, general tasks"
+        maxContextTokens: 1048576
+        maxOutputTokens: 8192
+      gemini-pro:
+        displayName: "Gemini Pro Legacy (Free)"
+        description: "Stable model for consistent results"
+        maxContextTokens: 32768
+        maxOutputTokens: 8192
+    userProvide: false
+    
+  custom:
+    - name: "Local AI Models (Free)"
+      baseURL: "http://ollama:11434/v1" 
+      apiKey: "dummy_key_not_needed"
+      models:
+        default: ["llama3.2:3b", "codellama:7b-code", "mistral:7b", "gemma2:2b"]
+        fetch: true
+      titleConvo: true
+      titleModel: "llama3.2:3b"
+      modelDisplayLabel: "Ollama Local"
+      dropParams: ["stop"]
+      
+    - name: "Groq Fast AI (Free)"
+      baseURL: "https://api.groq.com/openai/v1"
+      apiKey: "${GROQ_API_KEY}"
+      models:
+        default: ["llama3-8b-8192", "llama3-70b-8192", "mixtral-8x7b-32768"]
+      titleConvo: true
+      titleModel: "llama3-8b-8192"
+      modelDisplayLabel: "Groq"
+
+
+mcpServers:
+  assessment-filesystem:
+    command: npx
+    args: ["-y", "@modelcontextprotocol/server-filesystem", "/app/demos"]
+    iconPath: /assets/icons/filesystem.svg
+    timeout: 30000
+    description: "Access demo files and student submissions"
+    
+  web-search:
+    command: npx
+    args: ["-y", "@modelcontextprotocol/server-web-search"]
+    timeout: 30000
+    iconPath: /assets/icons/web-search.svg
+    description: "Search the web for current information"
+    
+
+
+
+
+
+
+
+
+fileConfig:
+  endpoints:
+    google:
+      fileLimit: 20
+      fileSizeLimit: 25  # MB
+      totalSizeLimit: 100  # MB
+      supportedMimeTypes:
+        - "application/pdf"
+        - "text/plain"
+        - "text/markdown"
+        - "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        - "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+        - "application/vnd.ms-powerpoint"
+        - "application/vnd.ms-excel"
+        - "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        - "text/x-python"
+        - "text/javascript"
+        - "text/x-java-source"
+        - "text/x-c"
+        - "text/x-c++"
+        - "text/html"
+        - "text/css"
+        - "application/json"
+        - "text/csv"
+        - "image/jpeg"
+        - "image/png" 
+        - "image/gif"
+        - "image/webp"
+        - "image/svg+xml"
+    
+    custom:
+      fileLimit: 10
+      fileSizeLimit: 10
+      totalSizeLimit: 50
+      supportedMimeTypes:
+        - "text/plain"
+        - "application/pdf"
+        - "text/x-python"
+        - "text/javascript"
+
+
+artifacts:
+
+
+speech:
+  tts:
+    google:
+      voice: "en-US-Neural2-A"
+      model: "google-tts"
+  stt:
+    google:
+      model: "google-stt"
+      language: "en-US"
+
+
+rateLimits:
+  fileUploads:
+    windowMs: 900000  # 15 minutes
+    max: 50
+  conversationsImport:
+    windowMs: 3600000  # 1 hour  
+    max: 5
+
+moderation:
+  enabled: true
+  services:
+    google:
+      enabled: true
+      model: "google-moderation"
+
+
+interface:
+  title: "EduChat - AI Assessment Platform"
+  customFooter: "Powered by LibreChat | Educational Use"
+  helpAndFAQURL: "https://your-institution.edu/ai-help"
+
+privacy:
+  dataRetention: 2555  # days (7 years for FERPA compliance)
+  allowDataExport: true
+  allowDataDeletion: true
+  anonymizeAfterDeletion: true
+
+
+demo:
+  enabled: true
+  sampleData: true
+  showcaseMode: true
+  educationalPrompts: true
+
+prelab:
+  quickStart: true
+  guidedTour: true
+  sampleAssessments: true
+  testData: true
+
+
+# 
+# 
+#
+#
