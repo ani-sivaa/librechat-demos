@@ -1,17 +1,17 @@
 # Demo 01: Basic LibreChat Setup
 
-## 🎯 Objective
-Demonstrate the fundamental setup and basic functionality of LibreChat with **FREE AI models** for educational use.
+## Objective
+Demonstrate the fundamental setup and basic functionality of LibreChat with free AI models for educational use.
 
-## ⏱️ Duration
-**15 minutes** - Perfect for quick evaluation
+## Duration
+15 minutes - Perfect for quick evaluation
 
-## 💰 Cost
-**$0** - Uses only free AI models and services
+## Cost
+$0 - Uses only free AI models and services
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Docker and Docker Compose installed
 - 8GB+ RAM, 50GB+ disk space
@@ -20,7 +20,7 @@ Demonstrate the fundamental setup and basic functionality of LibreChat with **FR
 
 ---
 
-## 🚀 Demo Steps
+## Demo Steps
 
 ### Step 1: Environment Setup (5 minutes)
 
@@ -87,7 +87,7 @@ Demonstrate the fundamental setup and basic functionality of LibreChat with **FR
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 
 Mark each as completed:
 
@@ -108,7 +108,7 @@ Mark each as completed:
 
 ---
 
-## 🎓 Educational Applications Demonstrated
+## Educational Applications Demonstrated
 
 ### For Students
 - **24/7 Tutoring**: AI available anytime for questions
@@ -127,7 +127,7 @@ Mark each as completed:
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -176,7 +176,7 @@ docker compose up -d
 
 ---
 
-## 📊 Demo Results
+## Demo Results
 
 ### Performance Metrics
 - **Setup Time**: ~5 minutes (automated)
@@ -200,7 +200,7 @@ docker compose up -d
 
 ---
 
-## 🎯 Next Steps
+## Next Steps
 
 ### Immediate
 1. **Explore Features**: Try file upload, conversation branching
@@ -219,7 +219,7 @@ docker compose up -d
 
 ---
 
-## 📝 Demo Report Template
+## Demo Report Template
 
 **Date**: _______________  
 **Demonstrator**: _______________  
@@ -261,18 +261,16 @@ docker compose up -d
 
 ---
 
-## 🎉 Congratulations!
+## Congratulations!
 
 You've successfully demonstrated LibreChat's basic capabilities with free AI models. This foundation shows how educational institutions can access enterprise-grade AI capabilities without enterprise costs.
 
-**Key Achievements**:
-- ✅ **Zero-cost AI platform** operational
-- ✅ **Multiple AI models** available and tested
-- ✅ **Educational applications** identified
-- ✅ **Scalable foundation** established
+Key Achievements:
+- Zero-cost AI platform operational
+- Multiple AI models available and tested
+- Educational applications identified
+- Scalable foundation established
 
-**Ready for the next demo?** Try [Demo 02: MCP Integration](../02-mcp-integration/) to see how LibreChat extends beyond basic chat! 🚀
+Ready for the next demo? Try [Demo 02: MCP Integration](../02-mcp-integration/) to see how LibreChat extends beyond basic chat!
 
----
-
-*Built for Education, Powered by Free AI* 🎓✨
+Built for Education, Powered by Free AI
