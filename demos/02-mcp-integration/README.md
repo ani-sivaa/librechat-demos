@@ -1,17 +1,17 @@
 # Demo 02: MCP Integration - Extending LibreChat Capabilities
 
-## 🎯 Objective
+## Objective
 Demonstrate how Model Context Protocol (MCP) servers extend LibreChat with powerful tools for educational assessment, including file system access and web search capabilities.
 
-## ⏱️ Duration
-**20 minutes** - Comprehensive feature demonstration
+## Duration
+20 minutes - Comprehensive feature demonstration
 
-## 💰 Cost
-**$0** - All MCP servers and tools are completely free
+## Cost
+$0 - All MCP servers and tools are completely free
 
 ---
 
-## 📋 What is MCP?
+## What is MCP?
 
 **Model Context Protocol (MCP)** allows AI models to access external tools and data sources securely. For education, this means:
 
@@ -22,7 +22,7 @@ Demonstrate how Model Context Protocol (MCP) servers extend LibreChat with power
 
 ---
 
-## 🛠️ Available MCP Servers
+## Available MCP Servers
 
 ### 1. Filesystem Server
 **Purpose**: Access and analyze files for educational assessment
@@ -53,7 +53,7 @@ Demonstrate how Model Context Protocol (MCP) servers extend LibreChat with power
 
 ---
 
-## 🚀 Demo Steps
+## Demo Steps
 
 ### Step 1: Verify MCP Configuration (3 minutes)
 
@@ -175,7 +175,7 @@ Demonstrate how Model Context Protocol (MCP) servers extend LibreChat with power
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 
 Mark each as completed:
 
@@ -201,7 +201,7 @@ Mark each as completed:
 
 ---
 
-## 🎓 Educational Applications
+## Educational Applications
 
 ### For Computer Science
 - **Code Review**: Automated analysis of programming assignments
@@ -229,7 +229,7 @@ Mark each as completed:
 
 ---
 
-## 🔧 Technical Configuration
+## Technical Configuration
 
 ### MCP Server Setup
 
@@ -270,7 +270,7 @@ mcpServers:
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 ### File Processing
 - **Small files** (< 1MB): ~2-5 seconds
@@ -291,7 +291,7 @@ mcpServers:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### MCP Server Issues
 
@@ -345,7 +345,7 @@ docker compose logs librechat | grep -i "web-search"
 
 ---
 
-## 🎯 Next Steps
+## Next Steps
 
 ### Immediate
 1. **Test with Real Files**: Upload actual student assignments
@@ -364,7 +364,7 @@ docker compose logs librechat | grep -i "web-search"
 
 ---
 
-## 📝 Demo Report Template
+## Demo Report Template
 
 **Date**: _______________  
 **Demonstrator**: _______________  
@@ -407,18 +407,16 @@ docker compose logs librechat | grep -i "web-search"
 
 ---
 
-## 🎉 Congratulations!
+## Congratulations!
 
 You've successfully demonstrated LibreChat's MCP integration capabilities. This shows how AI can be extended beyond simple chat to become a comprehensive educational assessment platform.
 
-**Key Achievements**:
-- ✅ **File analysis** for automated grading
-- ✅ **Web search** for research and fact-checking
-- ✅ **Combined capabilities** for comprehensive assessment
-- ✅ **Educational workflows** demonstrated
+Key Achievements:
+- File analysis for automated grading
+- Web search for research and fact-checking
+- Combined capabilities for comprehensive assessment
+- Educational workflows demonstrated
 
-**Ready for more?** Try [Demo 03: Artifacts Showcase](../03-artifacts-showcase/) to see interactive content generation! 🚀
+Ready for more? Try [Demo 03: Artifacts Showcase](../03-artifacts-showcase/) to see interactive content generation!
 
----
-
-*Built for Education, Powered by Free AI* 🎓✨
+Built for Education, Powered by Free AI
