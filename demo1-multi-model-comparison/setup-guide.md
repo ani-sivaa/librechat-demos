@@ -1,58 +1,69 @@
-# Demo 1 Setup Guide
+# Setting Up Demo 1 (Step by Step)
 
-## Prerequisites
-- Docker and Docker Compose installed
-- Google Gemini API key (free)
-- Groq API key (free)
+## What You Need Before Starting
+- Docker installed on your computer (if you don't have it, download from docker.com)
+- About 10 minutes of your time
+- Two free accounts (Google and Groq)
 
-## Step 1: Get API Keys
+## Step 1: Get Your Free API Keys
 
-### Gemini API Key (Free)
-1. Go to https://makersuite.google.com/app/apikey
-2. Sign in with your Google account
-3. Click "Create API Key"
-4. Copy the generated key
+### Getting a Google Gemini Key
+1. Open your web browser and go to https://makersuite.google.com/app/apikey
+2. Sign in with any Google account (Gmail, etc.)
+3. You'll see a button that says "Create API Key" - click it
+4. Google will generate a long string of letters and numbers - copy this somewhere safe
 
-### Groq API Key (Free)
-1. Visit https://console.groq.com
-2. Sign up for a free account
-3. Navigate to API Keys section
-4. Create a new API key
-5. Copy the key
+### Getting a Groq Key
+1. Go to https://console.groq.com in your browser
+2. Click "Sign Up" and make a free account (use any email)
+3. Once you're logged in, look for "API Keys" in the menu
+4. Click "Create API Key" 
+5. Copy the key they give you (another long string of characters)
 
-## Step 2: Environment Setup
-1. Navigate to the demo1-multi-model-comparison directory
-2. Copy the environment template:
-   ```bash
-   cp .env.example .env
+## Step 2: Set Up Your Environment
+1. Open a terminal or command prompt
+2. Go to the demo folder: `cd demo1-multi-model-comparison`
+3. Copy the example settings file: `cp .env.example .env`
+4. Open the `.env` file in any text editor (Notepad, TextEdit, etc.)
+5. Find these two lines and replace the placeholder text with your actual keys:
    ```
-3. Edit the `.env` file and add your API keys:
+   GEMINI_API_KEY=paste_your_google_key_here
+   GROQ_API_KEY=paste_your_groq_key_here
    ```
-   GEMINI_API_KEY=your_gemini_key_here
-   GROQ_API_KEY=your_groq_key_here
-   ```
+6. Save the file
 
-## Step 3: Start LibreChat
-1. Start the services:
-   ```bash
-   docker-compose up -d
-   ```
-2. Wait for all services to start (about 30 seconds)
-3. Access LibreChat at http://localhost:3080
+## Step 3: Start Everything Up
+1. In your terminal, run: `docker-compose up -d`
+2. Wait about 30 seconds for everything to start (you'll see some text scrolling by)
+3. Open your web browser and go to http://localhost:3080
 
-## Step 4: Create Account
-1. Click "Sign Up" on the login page
-2. Create your account with email and password
-3. Log in to access the interface
+## Step 4: Create Your Account
+1. You'll see a login page - click "Sign Up"
+2. Pick any email and password (this is just for your local setup)
+3. Click "Sign In" to enter the chat interface
 
-## Step 5: Test Model Comparison
-1. Select different models from the endpoint dropdown
-2. Try the same prompt with different models
-3. Compare the responses and note differences
-4. Use the sample prompts from `test-conversations/sample-prompts.json`
+## Step 5: Try Comparing Models
+1. Look for a dropdown menu that lets you pick different AI models
+2. Ask the same question to different models
+3. Open new conversations to test different models with the same prompt
+4. Try the example questions from the `test-conversations/sample-prompts.json` file
 
-## Troubleshooting
-- If services don't start, check Docker logs: `docker-compose logs`
-- If API calls fail, verify your API keys are correct
-- For rate limiting issues, wait a few minutes between requests
-- Check the troubleshooting guide in the documentation folder
+## If Something Goes Wrong
+
+### Docker Won't Start
+- Make sure Docker is actually running on your computer
+- Try running `docker-compose logs` to see what's happening
+- Sometimes you need to wait a bit longer for everything to start up
+
+### AI Models Don't Work
+- Double-check that you copied your API keys correctly (no extra spaces)
+- Make sure you're using the right keys in the right places
+- Try refreshing the webpage
+
+### Getting Rate Limited
+- The free tiers have limits on how many questions you can ask
+- If you hit the limit, just wait a few minutes and try again
+- Groq especially has strict limits, so space out your requests
+
+### Still Having Problems?
+Check out the troubleshooting guide in the documentation folder for more detailed help.

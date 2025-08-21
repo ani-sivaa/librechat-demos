@@ -1,130 +1,131 @@
-# Troubleshooting Guide
+# When Things Go Wrong
 
-## Common Issues
+## The Most Common Problems
 
-### 1. LibreChat Won't Start
+### LibreChat Won't Start Up
+If LibreChat isn't starting, try these steps:
 ```bash
-# Check logs
+# See what's happening
 docker-compose logs
 
-# Restart services
+# Try restarting everything
 docker-compose restart
 
-# Full reset
+# If that doesn't work, start fresh
 docker-compose down
 docker-compose up -d
 ```
 
-### 2. API Key Errors
-- Verify keys in .env file
-- Check key format (no extra spaces)
-- Ensure keys have proper permissions
-- Test keys directly with curl
+### Your API Keys Aren't Working
+- Double-check that you copied your keys correctly into the .env file
+- Make sure there are no extra spaces before or after your keys
+- Try creating new keys if the old ones seem broken
+- Test your keys on the Google/Groq websites to make sure they work
 
-### 3. MongoDB Connection Failed
+### Database Problems
+If you're getting database errors, try this:
 ```bash
-# Check MongoDB status
+# Check if the database is running
 docker ps | grep mongodb
 
-# View MongoDB logs
+# Look at what the database is saying
 docker logs chat-mongodb
 
-# Reset MongoDB
+# Reset the database (this will delete your conversations)
 docker-compose down -v
 docker-compose up -d
 ```
 
-### 4. Rate Limiting
-- Groq has strict rate limits on free tier
-- Space out requests
-- Use different models to distribute load
-- Consider implementing retry logic
+### Getting "Too Many Requests" Errors
+- Both Google and Groq limit how fast you can ask questions
+- If you hit the limit, just wait a minute and try again
+- Try using different models to spread out your requests
+- Don't spam the AI with lots of questions at once
 
-### 5. Model Not Available
-- Check model name spelling
-- Verify model is available in your region
-- Some models require waitlist access
+### AI Models Don't Show Up
+- Check that you spelled the model names correctly in your config
+- Some models might not be available in your country
+- A few models require special access (but the free ones should work)
 
-### 6. File Upload Issues
-- Check file size limits
-- Verify MIME types are supported
-- Ensure sufficient disk space
-- Check Docker volume permissions
+### Can't Upload Files
+- Check if your files are too big (there are size limits)
+- Make sure you're uploading supported file types (images, PDFs, text)
+- You might be running out of disk space
+- Try restarting LibreChat if uploads suddenly stop working
 
-### 7. Port Conflicts
-- Demo 1 uses port 3080
-- Demo 2 uses port 3081
-- Check if ports are already in use:
+### Port Already in Use
+- Demo 1 runs on port 3080, Demo 2 runs on port 3081
+- If you get a "port already in use" error, something else is using that port
+- You can check what's using a port like this: `netstat -tulpn | grep :3080`
+- Either stop the other program or change the port in docker-compose.yml
+
+### Docker Problems
+If Docker itself is having issues:
 ```bash
-netstat -tulpn | grep :3080
-```
-
-### 8. Docker Issues
-```bash
-# Check Docker status
+# Make sure Docker is working
 docker --version
 docker-compose --version
 
-# Free up space
+# Clean up old Docker stuff to free space
 docker system prune
 
-# Reset everything
+# Nuclear option - reset everything (you'll lose your conversations)
 docker-compose down -v
 docker system prune -a
 ```
 
-## Debug Commands
+## Useful Commands for Debugging
 
 ```bash
-# View all logs
+# See what's happening in real-time
 docker-compose logs -f
 
-# Check container status
+# Check if all containers are running
 docker ps -a
 
-# Inspect network
+# See Docker networks
 docker network ls
 
 # Clean up everything
 docker system prune -a
 
-# Check API health
+# Test if LibreChat is responding
 curl http://localhost:3080/health
 ```
 
-## Performance Issues
+## When Everything is Slow
 
-### Slow Responses
-1. Check internet connection
-2. Verify API service status
-3. Try different models
-4. Check rate limiting
+### AI Responses Take Forever
+1. Check your internet connection
+2. Try a different AI model (some are faster than others)
+3. You might be hitting rate limits - slow down your requests
+4. Check if the AI service is having problems (Google/Groq status pages)
 
-### High Memory Usage
-1. Monitor Docker stats: `docker stats`
-2. Increase Docker memory limits
-3. Restart containers periodically
+### Computer Running Out of Memory
+1. See how much memory Docker is using: `docker stats`
+2. Give Docker more memory in Docker Desktop settings
+3. Restart the containers every once in a while to clear memory
 
-## Getting Help
+## Where to Get More Help
 
-1. Check LibreChat documentation: https://www.librechat.ai/
-2. Search GitHub issues
-3. Ask in Discord community
-4. Review configuration carefully
+1. Check the official LibreChat docs: https://www.librechat.ai/
+2. Look through GitHub issues to see if someone else had the same problem
+3. Join the LibreChat Discord community for help
+4. Go through your configuration files carefully to spot any mistakes
 
-## Environment-Specific Issues
+## Problems on Different Operating Systems
 
-### Windows
-- Use WSL2 for better Docker performance
-- Check file path formats
-- Verify line endings (LF vs CRLF)
+### Windows Users
+- Use WSL2 if you can - it makes Docker work much better
+- Watch out for weird file path issues
+- Sometimes Windows messes up line endings in text files
 
-### macOS
-- Ensure Docker Desktop is running
-- Check file sharing permissions
-- Verify sufficient disk space
+### Mac Users
+- Make sure Docker Desktop is actually running (check the menu bar)
+- Docker might need permission to access your files
+- Make sure you have enough free disk space
 
-### Linux
-- Check Docker daemon status
-- Verify user permissions
-- Ensure ports are not blocked by firewall
+### Linux Users
+- Check that the Docker service is running: `systemctl status docker`
+- Make sure your user can run Docker commands (you might need to be in the docker group)
+- Check if your firewall is blocking the ports LibreChat needs

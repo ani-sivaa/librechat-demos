@@ -1,59 +1,53 @@
-# Configuration Guide
+# How to Configure LibreChat
 
-## Understanding librechat.yaml
+## What's the librechat.yaml File?
 
-The librechat.yaml file is the core configuration for LibreChat. It defines:
+Think of this file as the "settings" for your LibreChat setup. It tells LibreChat which AI models you want to use and how they should behave. Don't worry - the demos already have this set up for you, but here's what's happening behind the scenes.
 
-1. **Endpoints**: AI model configurations
-2. **Models**: Available models per endpoint
-3. **Parameters**: Default settings
-4. **File Handling**: Upload limits and types
-5. **Interface**: UI features to enable
+## The Main Things This File Controls
 
-## Key Configuration Options
-
-### Custom Endpoints
+### Which AI Models You Can Use
 ```yaml
 endpoints:
   custom:
-    - name: "Display Name"
-      apiKey: "${ENV_VARIABLE}"
-      baseURL: "API endpoint URL"
+    - name: "What you'll see in the dropdown"
+      apiKey: "${YOUR_API_KEY_NAME}"
+      baseURL: "Where to find this AI model"
       models:
-        default: ["model-1", "model-2"]
+        default: ["model-name-1", "model-name-2"]
 ```
 
-### Model Parameters
-- `temperature`: Controls randomness (0.0-1.0)
-- `top_p`: Nucleus sampling threshold
-- `max_tokens`: Maximum response length
-- `presence_penalty`: Reduces repetition
-- `frequency_penalty`: Reduces common phrases
+### How the AI Behaves
+- `temperature`: How creative vs predictable the AI is (0 = very predictable, 1 = very creative)
+- `top_p`: Another creativity setting (usually leave this alone)
+- `max_tokens`: How long responses can be
+- `presence_penalty`: Stops the AI from repeating itself too much
+- `frequency_penalty`: Stops the AI from using the same phrases over and over
 
-### File Configuration
+### File Upload Settings
 ```yaml
 fileConfig:
   endpoints:
     custom:
-      fileLimit: 10       # Max files per message
-      fileSizeLimit: 20   # Max size per file (MB)
-      totalSizeLimit: 100 # Total size limit (MB)
+      fileLimit: 10       # How many files you can upload at once
+      fileSizeLimit: 20   # Biggest file size allowed (in MB)
+      totalSizeLimit: 100 # Total size of all files combined
 ```
 
-## Environment Variables
+## Your Secret Keys (.env file)
 
-Required variables in .env:
-- `GEMINI_API_KEY`: Google AI Studio key
-- `GROQ_API_KEY`: Groq platform key
-- `MONGO_URI`: MongoDB connection string
-- `JWT_SECRET`: Authentication secret
-- `CREDS_KEY`: Encryption key (32 chars)
-- `CREDS_IV`: Initialization vector (16 chars)
+These are the "passwords" that let LibreChat talk to the AI services:
+- `GEMINI_API_KEY`: Your Google key
+- `GROQ_API_KEY`: Your Groq key
+- `MONGO_URI`: Database connection (already set up)
+- `JWT_SECRET`: Security stuff (already set up)
+- `CREDS_KEY`: More security stuff (already set up)
+- `CREDS_IV`: Even more security stuff (already set up)
 
-## Best Practices
+## Things to Remember
 
-1. **Security**: Never commit .env files
-2. **Keys**: Use strong, unique secrets
-3. **Models**: Start with lower-cost models
-4. **Limits**: Set appropriate file limits
-5. **Monitoring**: Enable debug logging initially
+1. **Keep your keys secret**: Never share your .env file or post it online
+2. **Start simple**: Use the default settings first, then experiment
+3. **Free models first**: Stick with the free tiers until you know what you're doing
+4. **File limits**: Don't set these too high or you'll run out of space
+5. **Turn on logging**: If something breaks, logs help you figure out what went wrong

@@ -1,85 +1,81 @@
-# API Setup Guide
+# Getting Your Free API Keys
 
-## Getting Gemini API Key (Free)
+## Why Do You Need API Keys?
 
-### Step 1: Access Google AI Studio
-1. Visit https://makersuite.google.com/app/apikey
-2. Sign in with your Google account
+Think of API keys like passwords that let LibreChat talk to Google and Groq's AI services. Both companies give you free access to their AI models - you just need to sign up and get your keys.
 
-### Step 2: Create API Key
-1. Click "Create API Key"
-2. Choose "Create API key in new project" or select existing project
-3. Copy the generated API key
-4. Store it securely
+## Getting a Google Gemini Key (Totally Free)
 
-### Step 3: Verify Access
-- Free tier includes 15 requests per minute
-- 1 million tokens per day
-- No credit card required
+### The Easy Way
+1. Go to https://makersuite.google.com/app/apikey in your browser
+2. Sign in with any Google account (your Gmail works fine)
+3. Click the big "Create API Key" button
+4. Google will show you a long string of letters and numbers - copy this!
+5. Paste it somewhere safe (like a notes app)
 
-## Getting Groq API Key (Free)
+### What You Get for Free
+- 15 questions per minute (that's plenty for testing)
+- 1 million "tokens" per day (tokens are like words - this is a lot)
+- No credit card needed at all
 
-### Step 1: Sign Up
-1. Visit https://console.groq.com
-2. Create a free account
-3. Verify your email address
+## Getting a Groq Key (Also Free)
 
-### Step 2: Generate API Key
-1. Navigate to API Keys section
-2. Click "Create API Key"
-3. Give it a descriptive name
-4. Copy the generated key
+### The Steps
+1. Go to https://console.groq.com
+2. Click "Sign Up" and make a free account with any email
+3. Check your email and click the verification link
+4. Once you're logged in, look for "API Keys" in the menu
+5. Click "Create API Key" and give it any name you want
+6. Copy the key they give you
 
-### Step 3: Understand Limits
-- Free tier: 30 requests per minute
+### What You Get for Free
+- 30 questions per minute (even more than Google!)
 - 6,000 tokens per minute
-- Multiple model options available
+- Access to several different Llama models
 
-## API Key Security
+## Keeping Your Keys Safe
 
-### Best Practices
-1. Never commit API keys to version control
-2. Use environment variables
-3. Rotate keys regularly
-4. Monitor usage in respective dashboards
+### Important Rules
+1. Don't share your keys with anyone (treat them like passwords)
+2. Don't post them online or in public places
+3. If you think someone got your key, you can always make a new one
+4. Check your usage on the Google and Groq websites to make sure everything looks normal
 
-### Environment Setup
-```bash
-# In your .env file
-GEMINI_API_KEY=your_actual_gemini_key_here
-GROQ_API_KEY=your_actual_groq_key_here
+### Where to Put Your Keys
+In your `.env` file, you'll see lines that look like this:
 ```
-
-## Rate Limiting
-
-### Gemini Limits
-- 15 requests per minute (free tier)
-- 1M tokens per day
-- Automatic retry with backoff recommended
-
-### Groq Limits
-- 30 requests per minute (free tier)
-- 6,000 tokens per minute
-- Different limits per model
-
-## Troubleshooting API Issues
-
-### Common Problems
-1. **Invalid API Key**: Double-check key format
-2. **Rate Limiting**: Wait between requests
-3. **Model Not Available**: Check model names
-4. **Network Issues**: Verify internet connection
-
-### Testing API Keys
-```bash
-# Test Gemini API
-curl -H "Content-Type: application/json" \
-     -d '{"contents":[{"parts":[{"text":"Hello"}]}]}' \
-     "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=YOUR_KEY"
-
-# Test Groq API
-curl -X POST "https://api.groq.com/openai/v1/chat/completions" \
-     -H "Authorization: Bearer YOUR_KEY" \
-     -H "Content-Type: application/json" \
-     -d '{"messages":[{"role":"user","content":"Hello"}],"model":"llama-3.1-8b-instant"}'
+GEMINI_API_KEY=paste_your_google_key_here
+GROQ_API_KEY=paste_your_groq_key_here
 ```
+Just replace the placeholder text with your actual keys.
+
+## What If You Hit the Limits?
+
+### Google Gemini
+- If you ask too many questions too fast, you'll get an error
+- Just wait a minute and try again
+- The daily limit is huge, so you probably won't hit it
+
+### Groq
+- Similar deal - if you go too fast, just slow down
+- Different models have different limits, but they're all pretty generous
+
+## If Something Goes Wrong
+
+### Your Key Doesn't Work
+- Make sure you copied the whole thing (they're long!)
+- Check for extra spaces at the beginning or end
+- Try making a new key if the old one seems broken
+
+### Getting "Rate Limited" Errors
+- This just means you're asking questions too fast
+- Wait 30-60 seconds and try again
+- Space out your requests a bit more
+
+### Models Don't Show Up
+- Double-check your key is in the right place in the .env file
+- Make sure you saved the .env file after editing it
+- Try restarting LibreChat (run `docker-compose restart`)
+
+### Still Stuck?
+Check the troubleshooting guide or look at the logs by running `docker-compose logs` to see what's happening.
