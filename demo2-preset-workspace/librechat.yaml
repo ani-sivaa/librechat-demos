@@ -1,0 +1,66 @@
+version: 1.0.5
+
+cache: true
+
+endpoints:
+  custom:
+    - name: "Creative Assistant"
+      apiKey: "${GEMINI_API_KEY}"
+      baseURL: "https://generativelanguage.googleapis.com/v1beta"
+      models:
+        default: ["gemini-1.5-flash"]
+      titleConvo: true
+      titleModel: "gemini-1.5-flash"
+      modelDisplayLabel: "Creative Gemini"
+      addParams:
+        temperature: 0.9
+        topP: 0.95
+        topK: 40
+        maxOutputTokens: 2048
+        
+    - name: "Technical Assistant"
+      apiKey: "${GROQ_API_KEY}"
+      baseURL: "https://api.groq.com/openai/v1"
+      models:
+        default: ["llama-3.3-70b-versatile"]
+      titleConvo: true
+      titleModel: "llama-3.3-70b-versatile"
+      modelDisplayLabel: "Technical Llama"
+      addParams:
+        temperature: 0.3
+        max_tokens: 4000
+        top_p: 0.9
+        
+    - name: "Fast Drafting"
+      apiKey: "${GROQ_API_KEY}"
+      baseURL: "https://api.groq.com/openai/v1"
+      models:
+        default: ["llama-3.1-8b-instant"]
+      titleConvo: true
+      titleModel: "llama-3.1-8b-instant"
+      modelDisplayLabel: "Speed Llama"
+      addParams:
+        temperature: 0.7
+        max_tokens: 1000
+
+interface:
+  endpointsMenu: true
+  modelSelect: true
+  parameters: true
+  exportConversation: true
+  importConversation: true
+  presets: true
+  
+fileConfig:
+  endpoints:
+    custom:
+      disabled: false
+      fileLimit: 10
+      fileSizeLimit: 20
+      totalSizeLimit: 100
+      supportedMimeTypes:
+        - "text/.*"
+        - "application/pdf"
+        - "application/json"
+        - "application/xml"
+        - "image/.*"

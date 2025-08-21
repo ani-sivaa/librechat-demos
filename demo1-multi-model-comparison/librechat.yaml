@@ -1,0 +1,88 @@
+version: 1.0.5
+
+cache: true
+
+endpoints:
+  custom:
+    - name: "Google Gemini"
+      apiKey: "${GEMINI_API_KEY}"
+      baseURL: "https://generativelanguage.googleapis.com/v1beta"
+      models:
+        default: 
+          - "gemini-1.5-flash"
+          - "gemini-1.5-flash-8b"
+      titleConvo: true
+      titleModel: "gemini-1.5-flash"
+      summarize: false
+      summaryModel: "gemini-1.5-flash"
+      forcePrompt: false
+      modelDisplayLabel: "Google Gemini"
+      addParams:
+        safetySettings:
+          - category: "HARM_CATEGORY_HARASSMENT"
+            threshold: "BLOCK_NONE"
+          - category: "HARM_CATEGORY_HATE_SPEECH"
+            threshold: "BLOCK_NONE"
+          - category: "HARM_CATEGORY_SEXUALLY_EXPLICIT"
+            threshold: "BLOCK_NONE"
+          - category: "HARM_CATEGORY_DANGEROUS_CONTENT"
+            threshold: "BLOCK_NONE"
+
+    - name: "Groq Llama 3.3"
+      apiKey: "${GROQ_API_KEY}"
+      baseURL: "https://api.groq.com/openai/v1"
+      models:
+        default:
+          - "llama-3.3-70b-versatile"
+          - "llama-3.3-70b-specdec"
+      titleConvo: true
+      titleModel: "llama-3.3-70b-versatile"
+      modelDisplayLabel: "Groq Llama 3.3"
+      
+    - name: "Groq Llama 3.2"
+      apiKey: "${GROQ_API_KEY}"
+      baseURL: "https://api.groq.com/openai/v1"
+      models:
+        default:
+          - "llama-3.2-90b-text-preview"
+          - "llama-3.2-11b-text-preview"
+          - "llama-3.2-3b-preview"
+          - "llama-3.2-1b-preview"
+      titleConvo: true
+      titleModel: "llama-3.2-3b-preview"
+      modelDisplayLabel: "Groq Llama 3.2"
+      
+    - name: "Groq Llama 3.1"
+      apiKey: "${GROQ_API_KEY}"
+      baseURL: "https://api.groq.com/openai/v1"
+      models:
+        default:
+          - "llama-3.1-70b-versatile"
+          - "llama-3.1-8b-instant"
+      titleConvo: true
+      titleModel: "llama-3.1-8b-instant"
+      modelDisplayLabel: "Groq Llama 3.1"
+      dropParams:
+        - "frequency_penalty"
+        - "presence_penalty"
+
+fileConfig:
+  endpoints:
+    custom:
+      fileLimit: 5
+      fileSizeLimit: 10  # Max size in MB
+      totalSizeLimit: 50  # Total size in MB
+      supportedMimeTypes:
+        - "image/.*"
+        - "application/pdf"
+        
+interface:
+  endpointsMenu: true
+  modelSelect: true
+  parameters: true
+  exportConversation: true
+  importConversation: true
+  
+registration:
+  allowedDomains:
+    - "@example.com"

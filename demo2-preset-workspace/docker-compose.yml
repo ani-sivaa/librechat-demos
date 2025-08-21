@@ -1,0 +1,37 @@
+version: '3.4'
+services:
+  api:
+    image: ghcr.io/danny-avila/librechat-dev:latest
+    container_name: LibreChat_Demo2
+    ports:
+      - 3081:3080
+    depends_on:
+      - mongodb
+    environment:
+      - HOST=0.0.0.0
+      - MONGO_URI=mongodb://mongodb:27017/LibreChat
+      - MEILI_HOST=http://meilisearch:7700
+      - MEILI_MASTER_KEY=meiliKey
+    volumes:
+      - ./librechat.yaml:/app/librechat.yaml
+      - ./logs:/app/api/logs
+      - ./images:/app/client/public/images
+    restart: always
+
+  mongodb:
+    container_name: chat-mongodb-demo2
+    image: mongo:latest
+    restart: always
+    volumes:
+      - ./data-node:/data/db
+    command: mongod --noauth
+    
+  meilisearch:
+    container_name: chat-meilisearch-demo2
+    image: getmeili/meilisearch:v1.7.3
+    restart: always
+    environment:
+      - MEILI_MASTER_KEY=meiliKey
+      - MEILI_NO_ANALYTICS=true
+    volumes:
+      - ./meili_data:/meili_data

@@ -1,0 +1,36 @@
+{
+  "comparison_prompts": [
+    {
+      "category": "Code Generation",
+      "prompt": "Write a Python function that implements binary search on a sorted list. Include error handling and comments."
+    },
+    {
+      "category": "Creative Writing",
+      "prompt": "Write a short story (200 words) about a robot learning to paint."
+    },
+    {
+      "category": "Analysis",
+      "prompt": "Analyze the pros and cons of remote work for software development teams."
+    },
+    {
+      "category": "Problem Solving",
+      "prompt": "I have 3 apples. I eat 1, buy 5 more, then give away half. How many do I have?"
+    },
+    {
+      "category": "Explanation",
+      "prompt": "Explain quantum computing to a 10-year-old."
+    },
+    {
+      "category": "Technical Documentation",
+      "prompt": "Write API documentation for a REST endpoint that creates a new user account."
+    },
+    {
+      "category": "Data Analysis",
+      "prompt": "Given sales data showing a 15% decline in Q3, what factors should we investigate?"
+    },
+    {
+      "category": "Debugging",
+      "prompt": "This Python code has a bug: for i in range(10): print(i+1). What's wrong and how to fix it?"
+    }
+  ]
+}

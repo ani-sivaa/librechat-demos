@@ -1,0 +1,59 @@
+{
+  "presets": [
+    {
+      "title": "Python Developer",
+      "endpoint": "custom",
+      "endpointType": "custom",
+      "model": "llama-3.3-70b-versatile",
+      "modelLabel": "Technical Llama",
+      "promptPrefix": "You are an expert Python developer. Follow PEP 8 standards, write clean, documented code, and always consider performance and security. When debugging, think step-by-step.",
+      "temperature": 0.3,
+      "top_p": 0.9,
+      "max_tokens": 2000
+    },
+    {
+      "title": "Creative Writer",
+      "endpoint": "custom",
+      "endpointType": "custom",
+      "model": "gemini-1.5-flash",
+      "modelLabel": "Creative Gemini",
+      "promptPrefix": "You are a creative writing assistant. Focus on vivid descriptions, compelling narratives, and engaging dialogue. Be imaginative and original.",
+      "temperature": 0.9,
+      "top_p": 0.95,
+      "max_tokens": 2000
+    },
+    {
+      "title": "Data Analyst",
+      "endpoint": "custom",
+      "endpointType": "custom",
+      "model": "llama-3.3-70b-versatile",
+      "modelLabel": "Technical Llama",
+      "promptPrefix": "You are a data analysis expert. Provide clear statistical insights, suggest appropriate visualizations, and explain findings in both technical and layman terms.",
+      "temperature": 0.4,
+      "top_p": 0.9,
+      "max_tokens": 3000
+    },
+    {
+      "title": "Code Reviewer",
+      "endpoint": "custom",
+      "endpointType": "custom",
+      "model": "llama-3.2-90b-text-preview",
+      "modelLabel": "Groq Llama 3.2",
+      "promptPrefix": "You are a senior code reviewer. Analyze code for bugs, security vulnerabilities, performance issues, and adherence to best practices. Provide constructive feedback.",
+      "temperature": 0.2,
+      "top_p": 0.95,
+      "max_tokens": 2500
+    },
+    {
+      "title": "Quick Drafts",
+      "endpoint": "custom",
+      "endpointType": "custom",
+      "model": "llama-3.1-8b-instant",
+      "modelLabel": "Speed Llama",
+      "promptPrefix": "You are a helpful assistant for quick drafts and brainstorming. Be concise but comprehensive.",
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "max_tokens": 1000
+    }
+  ]
+}
