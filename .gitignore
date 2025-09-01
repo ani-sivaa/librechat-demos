@@ -1,1 +1,6 @@
 demo1-multi-model-comparison/data-node/
+# Large database files
+**/*.wt
+**/WiredTiger*
+**/diagnostic.data/
+**/journal/
