@@ -1,0 +1,1266 @@
+2025-09-01T00:08:42.345Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:42.354Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:08:42.354Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:42.355Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:42.355Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:08:42.356Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:42.356Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:42.357Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:08:42.411Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:08:53.793Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:53.797Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:08:53.798Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:53.798Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:53.799Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:08:53.799Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:53.800Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:53.801Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:08:53.851Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:08:58.020Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:58.025Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:08:58.026Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:58.026Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:58.027Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:08:58.028Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:58.028Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:08:58.031Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:09.934Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:09.935Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:09.935Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:09.935Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:09.935Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:09.936Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:09.936Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:09.937Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:13.656Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:13.657Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:13.657Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:13.658Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:13.658Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:13.658Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:13.658Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:13.658Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:13.673Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:09:17.271Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:17.272Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:17.273Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:17.288Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:09:21.959Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:21.960Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:21.961Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:21.961Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:21.961Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:21.961Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:21.961Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:21.962Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:28.621Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:28.622Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:28.622Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:28.623Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:28.623Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:28.623Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:28.623Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:28.623Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:28.638Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:09:38.778Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:38.779Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:38.779Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:38.779Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:38.779Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:38.780Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:38.780Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:38.780Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:38.796Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:09:55.046Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:55.047Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:09:55.047Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:55.047Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:55.048Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:09:55.048Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:55.048Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:09:55.048Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:09:55.065Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:10:24.050Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:10:24.056Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:10:24.056Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:10:24.056Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:10:24.057Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:10:24.057Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:10:24.057Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:10:24.058Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:10:24.075Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:35.648Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:35.650Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:35.650Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:35.650Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:35.651Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:35.651Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:35.651Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:35.652Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:35.671Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:39.457Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:39.459Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:39.460Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:39.476Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:42.883Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:42.884Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:42.884Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:42.884Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:42.884Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:42.885Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:42.885Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:42.885Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:42.900Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:45.896Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:45.897Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:45.898Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:45.912Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:49.458Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:49.459Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:49.459Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:49.459Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:49.459Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:49.460Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:49.460Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:49.460Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:49.473Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:12:53.823Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:53.824Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:12:53.825Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:12:53.839Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:13:00.074Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:00.075Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:13:00.075Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:00.076Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:00.076Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:13:00.076Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:00.076Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:00.077Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:13:00.093Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:13:09.447Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:09.448Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:09.449Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:13:09.461Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:13:26.005Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:26.006Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:13:26.008Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:26.008Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:26.008Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:13:26.008Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:26.009Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:26.009Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:13:56.100Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:56.102Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:13:56.103Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:13:56.123Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:14:51.726Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:14:51.727Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:14:51.727Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:14:51.727Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:14:51.728Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:14:51.728Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:14:51.728Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:14:51.728Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:14:51.743Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:15:57.286Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:15:57.288Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:15:57.289Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:15:57.290Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:15:57.290Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:15:57.290Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:15:57.291Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:15:57.294Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:15:57.330Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:20:29.313Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:29.318Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:20:29.319Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:29.319Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:29.319Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:20:29.319Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:29.320Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:29.321Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:20:29.378Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:20:41.129Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:41.131Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:20:41.131Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:41.132Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:41.132Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:20:41.132Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:41.132Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:41.134Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:20:52.058Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:52.068Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:20:52.073Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:52.073Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:52.074Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:20:52.074Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:52.074Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:20:52.076Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:20:52.132Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:03.849Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:03.853Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:03.854Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:03.854Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:03.854Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:03.857Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:03.858Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:03.860Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:03.920Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:16.896Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:16.900Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:16.900Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:16.901Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:16.901Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:16.901Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:16.901Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:16.904Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:16.946Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:27.128Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:27.130Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:27.130Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:27.131Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:27.131Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:27.131Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:27.131Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:27.133Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:27.170Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:35.202Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:35.204Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:35.206Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:35.206Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:35.206Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:35.207Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:35.207Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:35.209Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:35.245Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:43.180Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:43.183Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:43.183Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:43.183Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:43.183Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:43.184Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:43.184Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:43.186Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:43.225Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:21:52.943Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:52.946Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:21:52.947Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:52.947Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:52.947Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:21:52.948Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:52.948Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:21:52.949Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:21:52.994Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:22:02.734Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:02.737Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:22:02.738Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:02.738Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:02.738Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:22:02.738Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:02.739Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:02.740Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:22:14.841Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:14.845Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:22:14.846Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:14.846Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:14.847Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:22:14.847Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:14.847Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:14.849Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:22:29.819Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:29.822Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:22:29.822Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:29.822Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:29.822Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:22:29.823Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:29.823Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:29.825Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:22:29.866Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:22:47.159Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:47.162Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:22:47.162Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:47.162Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:47.162Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:22:47.163Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:47.163Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:22:47.164Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:22:47.191Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:18.564Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:18.566Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:18.567Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:18.581Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:21.844Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:21.846Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:21.847Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:21.864Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:24.790Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:24.792Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:24.792Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:24.792Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:24.792Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:24.793Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:24.793Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:24.793Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:24.808Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:27.865Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:27.866Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:27.867Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:31.256Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:31.256Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:31.257Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:31.257Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:31.257Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:31.257Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:31.257Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:31.258Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:35.467Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:35.468Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:35.469Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:35.469Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:35.469Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:35.469Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:35.469Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:35.470Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:35.483Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:41.324Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:41.325Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:41.326Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:41.326Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:41.326Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:41.326Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:41.326Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:41.327Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:41.339Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:23:50.390Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:50.391Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:23:50.391Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:50.391Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:50.391Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:23:50.391Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:50.392Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:23:50.392Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:23:50.405Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:24:45.831Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:45.832Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:24:45.833Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:45.833Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:45.833Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:24:45.833Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:45.833Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:45.834Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:24:45.848Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:24:48.387Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:48.388Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:48.389Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:24:48.403Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:24:50.905Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:50.906Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:50.907Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:24:53.563Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:53.564Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:53.565Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:24:56.849Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:56.850Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:24:56.851Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:25:01.147Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:01.148Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:25:01.148Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:01.148Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:01.148Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:25:01.149Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:01.149Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:01.149Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:25:08.102Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:08.103Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:08.104Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:25:08.117Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:25:16.825Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:16.826Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:25:16.826Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:16.826Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:16.827Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:25:16.827Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:16.827Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:16.827Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:25:16.841Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:25:32.000Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:32.001Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:25:32.001Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:32.001Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:32.002Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:25:32.002Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:32.002Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:32.003Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:25:32.017Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:25:59.994Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:59.995Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:25:59.995Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:59.995Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:59.995Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:25:59.995Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:59.996Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:25:59.996Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:26:53.762Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:26:53.763Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:26:53.763Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:26:53.763Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:26:53.764Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:26:53.764Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:26:53.764Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:26:53.764Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:26:53.777Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:27:56.381Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:27:56.382Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:27:56.382Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:27:56.382Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:27:56.382Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:27:56.383Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:27:56.383Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:27:56.383Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:27:56.396Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:28:59.049Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:28:59.050Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:28:59.051Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:28:59.064Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:30:01.448Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:30:01.449Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:30:01.449Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:30:01.449Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:30:01.449Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:30:01.450Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:30:01.450Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:30:01.450Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:30:01.465Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:31:03.836Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:31:03.837Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:31:03.838Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:32:06.766Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:32:06.767Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:32:06.768Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:32:06.768Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:32:06.768Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:32:06.768Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:32:06.768Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:32:06.769Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:32:06.785Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:33:14.266Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:33:14.267Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:33:14.267Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:33:14.267Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:33:14.268Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:33:14.268Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:33:14.268Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:33:14.269Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:33:14.282Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:34:17.147Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:34:17.148Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:34:17.148Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:34:17.148Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:34:17.148Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:34:17.149Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:34:17.149Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:34:17.149Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:34:17.163Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:35:19.555Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:35:19.556Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:35:19.557Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:36:22.297Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:36:22.297Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:36:22.298Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:36:22.298Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:36:22.298Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:36:22.298Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:36:22.299Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:36:22.300Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:36:22.314Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:37:25.127Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:37:25.128Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:37:25.129Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:17.572Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:17.575Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:17.576Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:17.576Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:17.576Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:17.576Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:17.577Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:17.578Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:17.704Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:39:42.742Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:42.745Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:42.745Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:42.745Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:42.746Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:42.746Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:42.746Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:42.747Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:45.375Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:45.376Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:45.376Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:45.376Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:45.376Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:45.376Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:45.377Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:45.377Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:45.389Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:39:48.016Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:48.017Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:48.017Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:48.017Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:48.017Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:48.017Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:48.018Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:48.018Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:48.032Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:39:50.916Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:50.917Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:50.917Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:50.917Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:50.918Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:50.918Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:50.918Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:50.918Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:50.935Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:39:54.264Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:54.265Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:54.266Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:39:58.679Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:58.680Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:39:58.680Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:58.680Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:58.680Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:39:58.681Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:58.681Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:39:58.681Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:40:04.718Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:04.718Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:04.719Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:40:13.914Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:13.915Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:13.916Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:40:13.930Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:40:29.235Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:29.236Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:40:29.236Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:29.236Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:29.236Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:40:29.237Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:29.237Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:29.237Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:40:29.250Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:40:57.191Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:57.192Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:40:57.193Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:40:57.205Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:41:50.993Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:41:50.994Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:41:50.994Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:41:50.994Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:41:50.994Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:41:50.994Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:41:50.995Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:41:50.995Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:41:51.008Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:42:53.620Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:42:53.621Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:42:53.621Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:42:53.621Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:42:53.622Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:42:53.622Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:42:53.622Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:42:53.622Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:43:56.141Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:43:56.142Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:43:56.143Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:44:58.421Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:44:58.421Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:44:58.421Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:44:58.422Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:44:58.422Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:44:58.422Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:44:58.422Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:44:58.422Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:44:58.434Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:46:00.965Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:46:00.966Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:46:00.966Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:46:00.966Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:46:00.966Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:46:00.966Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:46:00.967Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:46:00.967Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:46:00.981Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:47:03.348Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:47:03.348Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:47:03.349Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:47:03.349Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:47:03.349Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:47:03.349Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:47:03.349Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:47:03.350Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:47:03.363Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:48:05.851Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:48:05.852Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:48:05.852Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:48:05.852Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:48:05.852Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:48:05.852Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:48:05.853Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:48:05.853Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:48:05.866Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:49:08.416Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:49:08.417Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:49:08.417Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:49:08.417Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:49:08.418Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:49:08.418Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:49:08.418Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:49:08.418Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:49:08.434Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:50:11.061Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:50:11.062Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:50:11.062Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:50:11.063Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:50:11.063Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:50:11.063Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:50:11.063Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:50:11.063Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:51:14.079Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:51:14.080Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:51:14.081Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:51:14.081Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:51:14.081Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:51:14.081Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:51:14.081Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:51:14.082Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:51:14.097Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:52:16.735Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:52:16.736Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:52:16.737Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:52:16.750Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:53:19.306Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:53:19.307Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:53:19.308Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:53:19.308Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:53:19.308Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:53:19.308Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:53:19.308Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:53:19.309Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:54:21.964Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:54:21.965Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:54:21.965Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:54:21.965Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:54:21.965Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:54:21.966Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:54:21.966Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:54:21.966Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:54:21.979Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:55:24.576Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:55:24.577Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:55:24.577Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:55:24.577Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:55:24.577Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:55:24.577Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:55:24.578Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:55:24.578Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:55:24.594Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:56:27.201Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:56:27.202Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:56:27.203Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:56:27.216Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:57:30.137Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:57:30.138Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:57:30.138Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:57:30.138Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:57:30.138Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:57:30.139Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:57:30.139Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:57:30.139Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:57:30.153Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:58:33.123Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:58:33.124Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:58:33.124Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:58:33.124Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:58:33.125Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:58:33.125Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:58:33.125Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:58:33.125Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:58:33.140Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T00:59:35.991Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T00:59:35.992Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T00:59:35.992Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T00:59:35.992Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T00:59:35.992Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T00:59:35.992Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T00:59:35.993Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T00:59:35.993Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T00:59:36.006Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:00:38.938Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:00:38.939Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:00:38.939Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:00:38.939Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:00:38.939Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:00:38.940Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:00:38.940Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:00:38.941Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:00:38.960Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:01:41.886Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:01:41.887Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:01:41.888Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:01:41.901Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:02:44.832Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:02:44.833Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:02:44.833Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:02:44.833Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:02:44.833Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:02:44.833Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:02:44.834Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:02:44.834Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:03:47.757Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:03:47.758Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:03:47.759Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:03:47.772Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:04:50.625Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:04:50.626Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:04:50.627Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:04:50.639Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:05:54.098Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:05:54.099Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:05:54.099Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:05:54.099Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:05:54.099Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:05:54.100Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:05:54.100Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:05:54.100Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:05:54.114Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:06:59.701Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:06:59.706Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:06:59.706Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:06:59.707Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:06:59.707Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:06:59.708Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:06:59.708Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:06:59.712Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:06:59.747Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:08:02.813Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:08:02.814Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:08:02.814Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:08:02.814Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:08:02.814Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:08:02.815Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:08:02.815Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:08:02.815Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:08:02.828Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:09:05.906Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:09:05.907Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:09:05.907Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:09:05.907Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:09:05.907Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:09:05.908Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:09:05.908Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:09:05.908Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:09:05.922Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:10:10.666Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:10:10.700Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:10:10.703Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:10:10.704Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:10:10.705Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:10:10.708Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:10:10.709Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:10:10.714Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:11:13.801Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:11:13.802Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:11:13.802Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:11:13.802Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:11:13.802Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:11:13.803Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:11:13.803Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:11:13.803Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:11:13.818Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:12:17.030Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:12:17.033Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:12:17.033Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:12:17.033Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:12:17.034Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:12:17.035Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:12:17.035Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:12:17.037Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:12:17.068Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:13:20.113Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:13:20.114Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:13:20.115Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:13:20.128Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:14:23.133Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:14:23.134Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:14:23.135Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:14:23.135Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:14:23.135Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:14:23.135Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:14:23.135Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:14:23.136Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:14:23.148Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:15:26.283Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:15:26.284Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:15:26.284Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:15:26.284Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:15:26.284Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:15:26.284Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:15:26.285Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:15:26.285Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:15:26.299Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:16:29.523Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:16:29.526Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:16:29.527Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:17:32.811Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:17:32.813Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:17:32.814Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:17:32.827Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:46:59.699Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:46:59.700Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:46:59.700Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:46:59.700Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:46:59.701Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:46:59.701Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:46:59.701Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:46:59.701Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:46:59.715Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:02.535Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:02.535Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:02.536Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:02.536Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:02.536Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:02.536Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:02.536Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:02.537Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:05.167Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:05.168Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:05.168Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:05.168Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:05.168Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:05.169Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:05.169Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:05.169Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:05.184Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:08.069Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:08.070Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:08.071Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:08.087Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:11.487Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:11.488Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:11.489Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:11.502Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:15.616Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:15.617Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:15.618Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:15.631Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:21.477Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:21.478Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:21.478Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:21.479Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:21.479Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:21.479Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:21.479Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:21.479Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:26.020Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:26.021Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:26.021Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:26.021Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:26.021Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:26.022Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:26.022Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:26.022Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:28.607Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:28.608Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:28.609Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:31.304Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:31.305Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:31.305Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:31.305Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:31.305Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:31.305Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:31.306Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:31.306Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:31.320Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:34.119Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:34.120Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:34.121Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:34.135Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:37.384Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:37.384Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:37.385Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:37.385Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:37.385Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:37.385Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:37.385Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:37.386Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:37.403Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:41.538Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:41.539Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:41.539Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:41.540Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:41.540Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:41.540Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:41.540Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:41.541Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:41.556Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:47.163Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:47.164Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:47.165Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:47.177Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:54.194Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:54.194Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:54.194Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:54.195Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:54.195Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:54.195Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:54.195Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:54.195Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:54.208Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:56.740Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:56.741Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:56.741Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:56.741Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:56.742Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:56.742Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:56.742Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:56.742Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:56.756Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:47:59.392Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:59.393Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:47:59.393Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:59.393Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:59.393Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:47:59.394Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:59.394Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:47:59.394Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:47:59.410Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:02.257Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:02.258Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:02.259Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:02.272Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:05.460Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:05.461Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:05.461Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:05.461Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:05.461Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:05.462Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:05.462Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:05.462Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:09.478Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:09.479Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:09.479Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:09.479Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:09.479Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:09.480Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:09.480Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:09.480Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:15.196Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:15.196Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:15.197Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:15.212Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:24.185Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:24.186Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:24.187Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:24.200Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:38.194Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:38.195Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:38.195Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:38.195Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:38.196Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:38.196Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:38.196Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:38.196Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:38.209Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:41.053Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:41.054Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:41.055Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:43.844Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:43.846Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:43.847Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:43.861Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:46.837Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:46.838Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:46.839Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:50.838Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:50.839Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:50.840Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:50.855Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:48:55.907Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:55.908Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:48:55.908Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:55.909Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:55.909Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:48:55.909Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:55.909Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:48:55.909Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:48:55.924Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:49:03.205Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:49:03.206Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:49:03.207Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:49:03.221Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:49:03.222Z info: Outdated Config version: 1.0.5
+Latest version: 1.2.8
+
+      Check out the Config changelogs for the latest options and features added.
+
+      https://... [truncated]
+2025-09-01T01:52:43.146Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:53:18.057Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:53:42.131Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:53:46.053Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:53:46.977Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:54:18.868Z debug: [requireLocalAuth] Error: No user
+2025-09-01T01:55:04.998Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:55:04.998Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:55:04.998Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:55:04.998Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:55:04.998Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:55:04.999Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:55:04.999Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:55:04.999Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:55:05.013Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:55:05.014Z info: Outdated Config version: 1.0.5
+Latest version: 1.2.8
+
+      Check out the Config changelogs for the latest options and features added.
+
+      https://... [truncated]
+2025-09-01T01:59:15.233Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T01:59:15.234Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T01:59:15.235Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T01:59:15.249Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T01:59:15.250Z info: Outdated Config version: 1.0.5
+Latest version: 1.2.8
+
+      Check out the Config changelogs for the latest options and features added.
+
+      https://... [truncated]
