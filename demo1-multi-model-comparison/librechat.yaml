@@ -68,7 +68,3 @@ interface:
   exportConversation: true
   importConversation: true
   
-registration:
-  allowedDomains:
-    - "@gmail.com"
-    - "@ucsc.edu"

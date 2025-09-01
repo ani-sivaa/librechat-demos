@@ -1264,3 +1264,247 @@ Latest version: 1.2.8
       Check out the Config changelogs for the latest options and features added.
 
       https://... [truncated]
+2025-09-01T02:00:43.008Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T02:00:43.009Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T02:00:43.009Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T02:00:43.009Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T02:00:43.009Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T02:00:43.010Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T02:00:43.010Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T02:00:43.010Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T02:00:43.025Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T02:00:43.025Z info: Outdated Config version: 1.0.5
+Latest version: 1.2.8
+
+      Check out the Config changelogs for the latest options and features added.
+
+      https://... [truncated]
+2025-09-01T02:10:40.445Z debug: Web search serperApiKey: Using environment variable SERPER_API_KEY (not set in environment, user provided value)
+2025-09-01T02:10:40.445Z debug: Web search searxngInstanceUrl: Using environment variable SEARXNG_INSTANCE_URL (not set in environment, user provided value)
+2025-09-01T02:10:40.445Z debug: Web search searxngApiKey: Using environment variable SEARXNG_API_KEY (not set in environment, user provided value)
+2025-09-01T02:10:40.445Z debug: Web search firecrawlApiKey: Using environment variable FIRECRAWL_API_KEY (not set in environment, user provided value)
+2025-09-01T02:10:40.446Z debug: Web search firecrawlApiUrl: Using environment variable FIRECRAWL_API_URL (not set in environment, user provided value)
+2025-09-01T02:10:40.446Z debug: Web search jinaApiKey: Using environment variable JINA_API_KEY (not set in environment, user provided value)
+2025-09-01T02:10:40.446Z debug: Web search cohereApiKey: Using environment variable COHERE_API_KEY (not set in environment, user provided value)
+2025-09-01T02:10:40.446Z warn: RAG API is either not running or not reachable at undefined, you may experience errors with file uploads.
+2025-09-01T02:10:40.462Z info: Turnstile is DISABLED (no siteKey provided).
+2025-09-01T02:10:40.462Z info: Outdated Config version: 1.0.5
+Latest version: 1.2.8
+
+      Check out the Config changelogs for the latest options and features added.
+
+      https://... [truncated]
+2025-09-01T02:14:07.636Z debug: [BaseClient] Loading history:
+{
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+}
+2025-09-01T02:14:07.966Z debug: [BaseClient] Context Count (1/2)
+{
+  remainingContextTokens: 114733,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:07.967Z debug: [BaseClient] Context Count (2/2)
+{
+  remainingContextTokens: 114733,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:07.967Z debug: [BaseClient] tokenCountMap:
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+}
+2025-09-01T02:14:07.967Z debug: [BaseClient]
+{
+  promptTokens: 17,
+  remainingContextTokens: 114733,
+  payloadSize: 1,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:07.968Z debug: [BaseClient] tokenCountMap
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+}
+2025-09-01T02:14:07.968Z debug: [BaseClient] userMessage
+{
+  messageId: "acbf4e08-09d3-4b57-9246-8aa144556d5e",
+  parentMessageId: "00000000-0000-0000-0000-000000000000",
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  sender: "User",
+  text: "find all the wildflowers that are native to california",
+  isCreatedByUser: true,
+  tokenCount: 14,
+}
+2025-09-01T02:14:11.162Z debug: [spendTokens] conversationId: 78664fdc-c0c5-45a7-93b8-1a39f4da4c24 | Context: message | Token usage:
+{
+  promptTokens: 17,
+  completionTokens: 1005,
+}
+2025-09-01T02:14:11.174Z debug: [spendTokens] No transactions incurred against balance
+2025-09-01T02:14:11.684Z debug: [spendTokens] conversationId: 78664fdc-c0c5-45a7-93b8-1a39f4da4c24 | Context: title | Token usage:
+{
+  promptTokens: 1107,
+  completionTokens: 4,
+}
+2025-09-01T02:14:11.696Z debug: [spendTokens] No transactions incurred against balance
+2025-09-01T02:14:18.637Z debug: [BaseClient] Loading history:
+{
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  parentMessageId: "5904c39f-4e06-444a-9b44-b1d3d6bcbeec",
+}
+2025-09-01T02:14:18.643Z debug: [BaseClient] Context Count (1/2)
+{
+  remainingContextTokens: 113714,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:18.644Z debug: [BaseClient] Context Count (2/2)
+{
+  remainingContextTokens: 113714,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:18.644Z debug: [BaseClient] tokenCountMap:
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+}
+2025-09-01T02:14:18.644Z debug: [BaseClient]
+{
+  promptTokens: 1036,
+  remainingContextTokens: 113714,
+  payloadSize: 3,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:18.644Z debug: [BaseClient] tokenCountMap
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+}
+2025-09-01T02:14:18.644Z debug: [BaseClient] userMessage
+{
+  messageId: "f7643ef8-e8c4-4d49-966d-da5f08c84847",
+  parentMessageId: "5904c39f-4e06-444a-9b44-b1d3d6bcbeec",
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  sender: "User",
+  text: "find all the wildflowers that are native to california",
+  isCreatedByUser: true,
+  tokenCount: 14,
+}
+2025-09-01T02:14:18.843Z debug: [spendTokens] conversationId: 78664fdc-c0c5-45a7-93b8-1a39f4da4c24 | Context: message | Token usage:
+{
+  promptTokens: 1036,
+  completionTokens: 4,
+}
+2025-09-01T02:14:18.851Z debug: [spendTokens] No transactions incurred against balance
+2025-09-01T02:14:26.994Z debug: [BaseClient] Loading history:
+{
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  parentMessageId: "5ba565bc-7a1f-405f-a0ed-cd47a89b8533",
+}
+2025-09-01T02:14:26.998Z debug: [BaseClient] Context Count (1/2)
+{
+  remainingContextTokens: 113696,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:26.999Z debug: [BaseClient] Context Count (2/2)
+{
+  remainingContextTokens: 113696,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:26.999Z debug: [BaseClient] tokenCountMap:
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+  5ba565bc-7a1f-405f-a0ed-cd47a89b8533: 4,
+  6c02e0d4-776d-4b9f-8f11-2c6364266319: 14,
+}
+2025-09-01T02:14:26.999Z debug: [BaseClient]
+{
+  promptTokens: 1054,
+  remainingContextTokens: 113696,
+  payloadSize: 5,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:26.999Z debug: [BaseClient] tokenCountMap
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+  5ba565bc-7a1f-405f-a0ed-cd47a89b8533: 4,
+  6c02e0d4-776d-4b9f-8f11-2c6364266319: 14,
+}
+2025-09-01T02:14:26.999Z debug: [BaseClient] userMessage
+{
+  messageId: "6c02e0d4-776d-4b9f-8f11-2c6364266319",
+  parentMessageId: "5ba565bc-7a1f-405f-a0ed-cd47a89b8533",
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  sender: "User",
+  text: "find all the wildflowers that are native to california",
+  isCreatedByUser: true,
+  tokenCount: 14,
+}
+2025-09-01T02:14:27.196Z debug: [spendTokens] conversationId: 78664fdc-c0c5-45a7-93b8-1a39f4da4c24 | Context: message | Token usage:
+{
+  promptTokens: 1054,
+  completionTokens: 4,
+}
+2025-09-01T02:14:27.206Z debug: [spendTokens] No transactions incurred against balance
+2025-09-01T02:14:31.567Z debug: [BaseClient] Loading history:
+{
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  parentMessageId: "f9137e42-c0e7-4f7c-b49f-95cba0992eef",
+}
+2025-09-01T02:14:31.569Z debug: [BaseClient] Context Count (1/2)
+{
+  remainingContextTokens: 113678,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:31.569Z debug: [BaseClient] Context Count (2/2)
+{
+  remainingContextTokens: 113678,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:31.570Z debug: [BaseClient] tokenCountMap:
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+  5ba565bc-7a1f-405f-a0ed-cd47a89b8533: 4,
+  6c02e0d4-776d-4b9f-8f11-2c6364266319: 14,
+  f9137e42-c0e7-4f7c-b49f-95cba0992eef: 4,
+  8213801f-3a70-4c63-b058-f528c033d3a1: 14,
+}
+2025-09-01T02:14:31.570Z debug: [BaseClient]
+{
+  promptTokens: 1072,
+  remainingContextTokens: 113678,
+  payloadSize: 7,
+  maxContextTokens: 114750,
+}
+2025-09-01T02:14:31.570Z debug: [BaseClient] tokenCountMap
+{
+  acbf4e08-09d3-4b57-9246-8aa144556d5e: 14,
+  5904c39f-4e06-444a-9b44-b1d3d6bcbeec: 1005,
+  f7643ef8-e8c4-4d49-966d-da5f08c84847: 14,
+  5ba565bc-7a1f-405f-a0ed-cd47a89b8533: 4,
+  6c02e0d4-776d-4b9f-8f11-2c6364266319: 14,
+  f9137e42-c0e7-4f7c-b49f-95cba0992eef: 4,
+  8213801f-3a70-4c63-b058-f528c033d3a1: 14,
+}
+2025-09-01T02:14:31.570Z debug: [BaseClient] userMessage
+{
+  messageId: "8213801f-3a70-4c63-b058-f528c033d3a1",
+  parentMessageId: "f9137e42-c0e7-4f7c-b49f-95cba0992eef",
+  conversationId: "78664fdc-c0c5-45a7-93b8-1a39f4da4c24",
+  sender: "User",
+  text: "find all the wildflowers that are native to california",
+  isCreatedByUser: true,
+  tokenCount: 14,
+}
+2025-09-01T02:14:35.681Z debug: [spendTokens] conversationId: 78664fdc-c0c5-45a7-93b8-1a39f4da4c24 | Context: message | Token usage:
+{
+  promptTokens: 1072,
+  completionTokens: 1744,
+}
+2025-09-01T02:14:35.692Z debug: [spendTokens] No transactions incurred against balance

@@ -1,0 +1,31 @@
+{
+  "email_verification": [
+    "Can you verify that my email setup is working correctly?",
+    "Check if my email configuration is properly connected",
+    "Test my email connection please"
+  ],
+  "simple_emails": [
+    "Send an email to john@example.com with subject 'Meeting Tomorrow' and tell them we're meeting at 2pm in the conference room",
+    "Email sarah@company.com about the project deadline being moved to next Friday",
+    "Send a quick thank you email to client@business.com for their recent order"
+  ],
+  "professional_emails": [
+    "Help me write a professional email to delay a project deadline, then send it to manager@company.com",
+    "Compose and send an email to team@startup.com announcing our new product launch next month",
+    "Write a follow-up email for a job interview and send it to hr@techcorp.com"
+  ],
+  "emails_with_cc_bcc": [
+    "Send an email to team@company.com, CC manager@company.com, with subject 'Weekly Status Update' and include our current project progress",
+    "Email client@business.com about the contract renewal, and BCC legal@ourcompany.com for their records"
+  ],
+  "creative_requests": [
+    "Write a fun birthday invitation email and send it to friends@example.com for my party next Saturday",
+    "Compose a newsletter about our latest company achievements and send it to subscribers@company.com",
+    "Send a personalized holiday greeting to customers@business.com with our new year wishes"
+  ],
+  "troubleshooting": [
+    "I'm having trouble sending emails - can you check what's wrong with my setup?",
+    "Why might my email verification be failing?",
+    "Test sending an email to myself to see if everything works"
+  ]
+}

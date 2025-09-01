@@ -1,0 +1,27 @@
+# Environment variables (contains API keys and passwords)
+.env
+
+# Node modules
+mcp-server/node_modules/
+mcp-server/package-lock.json
+
+# Database and logs
+data-node/
+logs/
+meili_data/
+
+# Docker volumes
+mongodb-data/
+meilisearch-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log

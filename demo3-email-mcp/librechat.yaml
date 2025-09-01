@@ -1,0 +1,42 @@
+version: 1.0.5
+
+cache: true
+
+endpoints:
+  google:
+    apiKey: "${GEMINI_API_KEY}"
+    models:
+      default: 
+        - "gemini-1.5-flash"
+        - "gemini-1.5-flash-8b"
+    titleConvo: true
+    titleModel: "gemini-1.5-flash"
+
+# MCP Configuration
+mcp:
+  servers:
+    email:
+      command: "node"
+      args: ["/app/mcp-server/index.js"]
+      env:
+        EMAIL_SERVICE: "${EMAIL_SERVICE}"
+        EMAIL_USER: "${EMAIL_USER}"
+        EMAIL_PASSWORD: "${EMAIL_PASSWORD}"
+
+fileConfig:
+  endpoints:
+    google:
+      fileLimit: 5
+      fileSizeLimit: 10  # Max size in MB
+      totalSizeLimit: 50  # Total size in MB
+      supportedMimeTypes:
+        - "image/.*"
+        - "application/pdf"
+        - "text/.*"
+        
+interface:
+  endpointsMenu: true
+  modelSelect: true
+  parameters: true
+  exportConversation: true
+  importConversation: true
