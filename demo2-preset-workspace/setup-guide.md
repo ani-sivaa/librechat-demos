@@ -29,7 +29,28 @@
    GEMINI_API_KEY=paste_your_google_key_here
    GROQ_API_KEY=paste_your_groq_key_here
    ```
-5. Save the file
+5. Generate secure values for the security keys by running these commands in your terminal:
+   ```bash
+   # Generate CREDS_KEY (32 characters)
+   openssl rand -hex 16
+   
+   # Generate CREDS_IV (16 characters)
+   openssl rand -hex 8
+   
+   # Generate JWT_SECRET
+   openssl rand -base64 32
+   
+   # Generate JWT_REFRESH_SECRET
+   openssl rand -base64 32
+   ```
+6. Copy each generated value to replace the placeholder values in your `.env` file:
+   ```
+   CREDS_KEY=your_generated_32_character_key
+   CREDS_IV=your_generated_16_character_key
+   JWT_SECRET=your_generated_jwt_secret
+   JWT_REFRESH_SECRET=your_generated_jwt_refresh_secret
+   ```
+7. Save the file
 
 ## Step 3: Start Your AI Team
 1. In your terminal, run: `docker-compose up -d`

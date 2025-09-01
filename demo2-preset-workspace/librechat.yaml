@@ -3,21 +3,14 @@ version: 1.0.5
 cache: true
 
 endpoints:
-  custom:
-    - name: "Creative Assistant"
-      apiKey: "${GEMINI_API_KEY}"
-      baseURL: "https://generativelanguage.googleapis.com/v1beta"
-      models:
-        default: ["gemini-1.5-flash"]
-      titleConvo: true
-      titleModel: "gemini-1.5-flash"
-      modelDisplayLabel: "Creative Gemini"
-      addParams:
-        temperature: 0.9
-        topP: 0.95
-        topK: 40
-        maxOutputTokens: 2048
+  google:
+    apiKey: "${GEMINI_API_KEY}"
+    models:
+      default: ["gemini-1.5-flash"]
+    titleConvo: true
+    titleModel: "gemini-1.5-flash"
         
+  custom:
     - name: "Technical Assistant"
       apiKey: "${GROQ_API_KEY}"
       baseURL: "https://api.groq.com/openai/v1"
